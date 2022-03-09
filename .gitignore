@@ -1,0 +1,5 @@
+node_modules
+.yaml
+.idea
+uploads/
+*.zip
